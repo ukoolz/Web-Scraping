@@ -10,7 +10,7 @@ import crawling.SeleniumDemo;
 
 /**
  *
- * @author KRUNAL
+ * @author ukoolz
  */
 public class Crawling {
 
